@@ -1,0 +1,10 @@
+.up-btn {
+    width: 65px;
+    height: 65px;
+    border-radius: 36px;
+    color: #000;
+    background: darkgray;
+    border: 1px solid darkgray;
+    font-size: 26px;
+    cursor: pointer;
+}
